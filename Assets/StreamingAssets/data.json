@@ -1,0 +1,197 @@
+{
+    "playerItems": [
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        },
+        {
+            "id": 0,
+            "title": "Diamond Sword",
+            "description": "A sword made of diamond",
+            "icon": {
+                "instanceID": 11638
+            }
+        }
+    ],
+    "itemDatabase": {
+        "instanceID": 11968
+    },
+    "inventoryUI": {
+        "instanceID": 12060
+    },
+    "inventory": {
+        "instanceID": 0
+    }
+}
